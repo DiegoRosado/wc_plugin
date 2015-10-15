@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=wc
+IAge=3
+Name=wc
+Description=It counts lines, words, and characters using the wc commnad line. 
+Authors=Diego Rosado
+Copyright=Copyright © 2015 Diego Rosado
+Version=0.0.1
